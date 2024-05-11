@@ -4,7 +4,7 @@ Course: DAAN 897– Deep Learning (Spring II, 2020)
 
 **Problem Statement**
 
-The objective of our project was to enhance a convolution neural network (CNN) for the classification of music genres by (i) adding Long-Short Term Memory (LSTM) to the model architecture, transforming the sample into 3-second stacked intervals, and implementing hypertuning and (ii) generalizing model from GTZAN to Dortmund using transfer learning.
+The objective of our project was to enhance a convolution neural network (CNN) for classification of music genres by (i) adding Long-Short Term Memory (LSTM) to the model architecture, transforming the sample into 3-second stacked intervals, and implementing hypertuning and (ii) generalizing our updated model from GTZAN to Dortmund using transfer learning. We contextualize machine learning's applications for genre classification; describe how to pre-process audio data; detail the five models we tested using various components; present our transfer learning results; and demonstrate our model's strengths and weaknesses on four separate independent song samples.  
 
 **Data Collection**
 
